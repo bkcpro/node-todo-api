@@ -9,6 +9,7 @@
   "author": "Bhargava Kunchanapalli",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.36"
+    "mongodb": "^2.2.36",
+    "mongoose": "^4.5.9"
   }
 }
