@@ -1,4 +1,5 @@
-//server.js only should have express routes
+require('./config/config.js');
+
 var express = require('express');
 var bodyParser = require('body-parser');
 
